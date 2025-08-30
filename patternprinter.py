@@ -1,5 +1,6 @@
 # Simple Python Pattern Printer
 # This program prints some basic patterns
+# new comment for working of pylint
 
 print("=== Pattern 1: Triangle of Stars ===")
 for i in range(1, 6):
